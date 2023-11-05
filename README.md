@@ -1,2 +1,2 @@
 # Conformal_Prediction
-This Repository contains codes on conformal Prediction
+This repository contains codes on conformal Prediction
